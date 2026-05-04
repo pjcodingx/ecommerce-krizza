@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.6",
+    "db-migrate": "^0.11.14",
+    "db-migrate-mysql": "^3.0.0",
     "express": "^5.2.1",
     "mysql2": "^3.22.3",
     "nodemon": "^3.1.14"

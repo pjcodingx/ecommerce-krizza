@@ -1,4 +1,4 @@
-# Dependencies
+git pull origin main --allow-unrelated-histories# Dependencies
 /node_modules
 /client/node_modules
 /server/node_modules
